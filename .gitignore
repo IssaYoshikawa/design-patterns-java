@@ -1,0 +1,5 @@
+# Java compiled classes
+*.class
+
+# Generated sample output from practice exercises
+newfile.txt
